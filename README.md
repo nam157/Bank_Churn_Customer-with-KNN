@@ -1,1 +1,1 @@
-# Bank_Churn_Customer-with-LG
+# Bank_Churn_Customer-with-Logistic Regression

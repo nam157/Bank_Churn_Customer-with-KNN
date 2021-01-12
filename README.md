@@ -1,1 +1,2 @@
-# Bank_Churn_Customer-with-Logistic Regression
+# Bank_Churn_Customer-with-KNN
+
